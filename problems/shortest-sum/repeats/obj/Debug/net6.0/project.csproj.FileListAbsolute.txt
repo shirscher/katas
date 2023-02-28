@@ -1,5 +1,0 @@
-/home/shirscher/projects/github/shirscher/katas/problems/shortest-sum/repeats/obj/Debug/net6.0/project.csproj.AssemblyReference.cache
-/home/shirscher/projects/github/shirscher/katas/problems/shortest-sum/repeats/obj/Debug/net6.0/project.GeneratedMSBuildEditorConfig.editorconfig
-/home/shirscher/projects/github/shirscher/katas/problems/shortest-sum/repeats/obj/Debug/net6.0/project.AssemblyInfoInputs.cache
-/home/shirscher/projects/github/shirscher/katas/problems/shortest-sum/repeats/obj/Debug/net6.0/project.AssemblyInfo.cs
-/home/shirscher/projects/github/shirscher/katas/problems/shortest-sum/repeats/obj/Debug/net6.0/project.csproj.CoreCompileInputs.cache
